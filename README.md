@@ -1,2 +1,2 @@
-# AIR_QUALITY_APP
+# MERN
 I want to improve my skills by creating projects
